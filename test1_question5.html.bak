@@ -30,15 +30,15 @@
 			<th colspan="2"><mark>Things to watch</mark></th>
 		</tr>
 		<tr>
-			<td><img src="C:\Users\ch.mounika\Desktop\java_full_stack\images\flower.jpeg"/ height="35px" width="35px"></td>
-			<td><img src="C:\Users\ch.mounika\Desktop\java_full_stack\images\flower.jpeg"/ height="35px" width="35px"></td>
+			<td><img src="images\flower.jpeg"/ height="35px" width="35px"></td>
+			<td><img src="images\flower.jpeg"/ height="35px" width="35px"></td>
 		</tr>
 		<tr>
 			<th colspan="2"><mark>Things to watch</mark></th>
 		</tr>
 		<tr>
-			<td><img src="C:\Users\ch.mounika\Desktop\java_full_stack\images\flower.jpeg"/ height="35px" width="35px"></td>
-			<td><img src="C:\Users\ch.mounika\Desktop\java_full_stack\images\flower.jpeg"/ height="35px" width="35px"></td>
+			<td><img src="images\flower.jpeg"/ height="35px" width="35px"></td>
+			<td><img src="images\flower.jpeg"/ height="35px" width="35px"></td>
 		</tr>
 	</table>
 	</td>
