@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body style="background-color:black">
+ <small style="text-align:center"><p style="color:red">Sathya</p>
+ <p style="color:blue">prakash</p>
+ <p style="color:green">Soma</p>
+ <p style="color:violate">welcome</p>
+ <p style="color:orange">Html</p>
+ <p style="color:red">Home</p>
+ <p style="color:green">Contact Us</p>
+ <p style="color:violate">Gallery</p>
+ <p style="color:orange">Team</p>
+ 
+ </small>
+ <h3 style="background-color:white;color:blue;text-align:center">Apple Products</h3>
+ <h4 style="color:red;text-align:center">Products</h4>
+ <img src="C:\Users\ch.mounika\Desktop\java_full_stack\images\flower.jpeg"/>
+ <p style="text-align:center;color:white"><small>Apple sells a variety of computer accessories for macs,including Thunderbolt Display, Magic Mouse, Magic Trackpad,Magic Keyboard,the AirPort wireless networking products,and Time Capsule.</small><br>
+ <address style="color:white">Mounika: contact:7093641894</address></p>
+ 
+ 
+ </body>
+</html>

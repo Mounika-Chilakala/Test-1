@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <table border="1px">
+	<tr>
+	<th colspan="2"><mark>My Day</mark></th>
+	</tr>
+	<tr>
+	<td>1.wake up early<ul type="square">
+	<li>5AM</li></ul>
+	<ul type="circle"><li>walk</li>
+	<li>jog</li></ul>
+
+	</tr>
+	<tr>
+	<td>2.breakfast<ul type="square">
+	<li>8AM</li></ul>
+	<ul type="circle"><li>eggs</li>
+	<li>coffe</li></ul>
+	<td><table border="1px">
+		<tr>
+			<th colspan="2"><mark>Things to watch</mark></th>
+		</tr>
+		<tr>
+			<td><img src="C:\Users\ch.mounika\Desktop\java_full_stack\images\flower.jpeg"/ height="35px" width="35px"></td>
+			<td><img src="C:\Users\ch.mounika\Desktop\java_full_stack\images\flower.jpeg"/ height="35px" width="35px"></td>
+		</tr>
+		<tr>
+			<th colspan="2"><mark>Things to watch</mark></th>
+		</tr>
+		<tr>
+			<td><img src="C:\Users\ch.mounika\Desktop\java_full_stack\images\flower.jpeg"/ height="35px" width="35px"></td>
+			<td><img src="C:\Users\ch.mounika\Desktop\java_full_stack\images\flower.jpeg"/ height="35px" width="35px"></td>
+		</tr>
+	</table>
+	</td>
+	</tr>
+
+    <tr>
+	<td>3.go to chitkara<ul type="square">
+	<li>9AM</li></ul>
+	<ul type="circle"><li>attend sessions</li>
+	<li>to be continued</li></ul>
+	</tr>
+
+
+
+  </table>
+ </body>
+</html>
