@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+ <fieldset>
+  <img src="C:\Users\ch.mounika\Desktop\java_full_stack\images\flower.jpeg"/>
+  <h3><b>Inklink Store</b></h3>
+  <small><a href="#" target="_self">Go to Inklink Store</a><br>
+  <p style="color:blue">Our website deals in all types of customizable printing available with us(Mugs,posters,laptop skins,cushions,mousepads)</p></br>
+  </small>
+  <h3><b>About Me</b></h3>
+  <h5><b>Name:Chilakala Mounika</b></h5>
+  <small>
+	Qualification:B tech<br>
+	Hobbies:<br>
+	<ul type="disk"><li>Listening to Music</li></ul>
+	<ol type="1"><li>Google Kickstart(9897)</li></ol>
+  
+  <address>
+	9th phase,kphb,hyderabad<br>
+	+91 7093641894
+  </address>
+  </small>
+  </fieldset>
+ </body>
+</html>
